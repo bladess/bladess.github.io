@@ -1,0 +1,41 @@
+.prest{
+    color: #29303d;
+}
+.titre{
+    font-size:65px;
+}
+.soustitre{
+    font-size: 25px;
+}
+.detail{
+    font-size: 20px;
+
+}
+#topu{
+    background: #BBB9B9;
+}
+#botoome{
+    background:  #29303d;
+    color :white;
+}
+
+hr{
+    
+    border-color: blue;
+}
+li{
+    margin-bottom: 5px;
+}   
+.top, .btn{
+    margin-top: 5px;
+    color: white;
+    background: #29303d;
+    border-radius: 60px / 40px;
+}
+.bot{
+    margin-top: 5px;
+    color: white;
+    background: blue;
+    border-radius: 25px;
+
+}
