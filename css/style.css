@@ -41,3 +41,9 @@ li{
     border-radius: 25px;
 
 }
+.res{
+    color :#29303d; 
+}
+.res:hover{
+    color :royalblue; 
+}
