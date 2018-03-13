@@ -1,0 +1,1 @@
+$('#age').text(moment().diff('1994-03-19', 'years')+" ans");
